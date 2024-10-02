@@ -33,7 +33,7 @@ void setup()
 
 void draw()
 {
-  background(100,234.122);
+  background(100,234.120);
   for(int i=0;i<globos.size();i++)
   {
     globos.get(i).update();
