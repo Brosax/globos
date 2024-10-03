@@ -8,5 +8,6 @@ cout<<"h o l a";
 cout<<"h o l a";
 cout<<"hello world\n";
 cout<<"in not fine";
+cout<<"in not fine";
 return 0;
 }
