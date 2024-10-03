@@ -12,7 +12,7 @@ cout<<"h o l a";
 cout<<"h o l a";
 cout<<"hello world\n";
 cout<<"in not fine\n";
-
+cout<<"in not fine\n";
 cout<<a;
 return 0;
 }
