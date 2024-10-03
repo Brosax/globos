@@ -1,8 +1,8 @@
 #include <iostream>
-
-using namespace std
+using namespace std;
 
 int main(){
+    
 cout<<"nihao~";
 cout<<"h o l a";
 cout<<"h o l a";
